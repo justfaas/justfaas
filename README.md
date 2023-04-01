@@ -18,6 +18,7 @@ JustFaaS is a set of components for deploying and running auto-scaled functions 
 
 - [Official documentation](https://docs.justfaas.com/)
 - [Serverless for Kubernetes](https://medium.com/@goncalo-a-oliveira/serverless-for-kubernetes-f8f7d9ad7edd) on Medium
+- [Securing a JustFaaS Cluster](https://medium.com/@goncalo-a-oliveira/securing-a-justfaas-cluster-f8ff580f53dc) on Medium
 
 ## How it works
 
