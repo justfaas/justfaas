@@ -36,7 +36,7 @@ graph LR
     Idler --scales 1..0--> Function
 ```
 
-> **Note**
+> **Note**<br/>
 > The idler component is not installed by default. An option must be set when installing/upgrading to enable the idler. The reason for this is that the idler is seen as a future deprecation, since Kubernetes will most likely offer a solution for this in future releases. You can read more about [scaling to zero](https://docs.justfaas.com/reference/scale-to-zero/) in the docs.
 
 ## Sponsors
