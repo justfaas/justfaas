@@ -2,9 +2,6 @@
 
 JustFaaS is a set of components for deploying and running auto-scaled functions and microservices on [Kubernetes](https://kubernetes.io/). No vendor-lock, no boilerplate code, language agnostic and no *reinventing the wheel*. 
 
-> **Warning**<br/>
-> This is still a work in progress and not yet production-ready material. Feel free to explore, but usage in a production environment is still premature.
-
 ## Features
 
 - No vendor-lock
